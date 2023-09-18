@@ -10,7 +10,7 @@ const SignIn = () => {
   }
   return (
     <main className="h-screen w-full bg-gradient-to-tr from-slate-900 to-slate-950">
-      <h1 className="font-['title-font'] text-7xl text-center text-white pt-20">Study Material</h1>
+      <h1 className="font-['title-font'] text-7xl text-center text-white pt-20">Notes</h1>
       <div className="flex justify-center pt-32 px-4">
         <Card className="max-w-sm bg-slate-800 grow h-max">
           <h5 className="text-2xl font-bold text-center text-white py-4">
