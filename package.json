@@ -1,0 +1,11 @@
+{
+  "name": "mern-workshop-main",
+  "version": "1.0.0",
+  "description": "--- Cyber Notes is a web application built with the MERN stack, which includes MongoDB, Express, React, and Node.js. The project uses Mongoose for database management, Tailwind and Flowbite for styling, and Passport.js for authentication.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
